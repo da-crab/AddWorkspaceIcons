@@ -71,8 +71,8 @@
   },
   {
     "emoji": "⛲",
-    "description": "fountain",
-    "name": "⛲"
+    "description": "",
+    "name": "fountain"
   },
   {
     "emoji": "⛳",
@@ -1416,7 +1416,7 @@
   },
   {
     "emoji": "🐚",
-    "description": "",
+    "description": "sea,",
     "name": "shell"
   },
   {
@@ -1461,17 +1461,17 @@
   },
   {
     "emoji": "🐣",
-    "description": "",
+    "description": "chicken, egg, hatch,",
     "name": "hatching_chick"
   },
   {
     "emoji": "🐤",
-    "description": "",
+    "description": "chicken, baby, hatch,",
     "name": "baby_chick"
   },
   {
     "emoji": "🐥",
-    "description": "",
+    "description": "chicken, baby, hatch",
     "name": "hatched_chick"
   },
   {
@@ -1481,7 +1481,7 @@
   },
   {
     "emoji": "🐧",
-    "description": "",
+    "description": "bird",
     "name": "penguin"
   },
   {
@@ -1491,7 +1491,7 @@
   },
   {
     "emoji": "🐩",
-    "description": "",
+    "description": "dog",
     "name": "poodle"
   },
   {
@@ -1506,7 +1506,7 @@
   },
   {
     "emoji": "🐬",
-    "description": "",
+    "description": "fish,",
     "name": "dolphin"
   },
   {
@@ -1541,7 +1541,7 @@
   },
   {
     "emoji": "🐳",
-    "description": "",
+    "description": "fish,",
     "name": "whale"
   },
   {
@@ -1691,97 +1691,97 @@
   },
   {
     "emoji": "👓",
-    "description": "",
+    "description": "accessory, accessories, spectacles, see, vision",
     "name": "eyeglasses"
   },
   {
     "emoji": "👔",
-    "description": "",
+    "description": "clothes, clothing",
     "name": "necktie"
   },
   {
     "emoji": "👕",
-    "description": "",
+    "description": "clothes, clothing",
     "name": "shirt"
   },
   {
     "emoji": "👖",
-    "description": "",
+    "description": "clothes, clothing",
     "name": "jeans"
   },
   {
     "emoji": "👗",
-    "description": "",
+    "description": "clothes, clothing",
     "name": "dress"
   },
   {
     "emoji": "👘",
-    "description": "",
+    "description": "clothes, clothing",
     "name": "kimono"
   },
   {
     "emoji": "👙",
-    "description": "",
+    "description": "clothes, clothing, swimsuit",
     "name": "bikini"
   },
   {
     "emoji": "👚",
-    "description": "",
+    "description": "clothes, clothing",
     "name": "womans_clothes"
   },
   {
     "emoji": "👛",
-    "description": "",
+    "description": "accessory, accessories",
     "name": "purse"
   },
   {
     "emoji": "👜",
-    "description": "",
+    "description": "accessory, accessories",
     "name": "handbag"
   },
   {
     "emoji": "👝",
-    "description": "",
+    "description": "accessory, accessories",
     "name": "pouch"
   },
   {
     "emoji": "👞",
-    "description": "",
+    "description": "clothes, clothing",
     "name": "mans_shoe"
   },
   {
     "emoji": "👟",
-    "description": "",
+    "description": "shoe",
     "name": "athletic_shoe"
   },
   {
     "emoji": "👠",
-    "description": "",
+    "description": "shoe",
     "name": "high_heel"
   },
   {
     "emoji": "👡",
-    "description": "",
+    "description": "shoe",
     "name": "sandal"
   },
   {
     "emoji": "👢",
-    "description": "",
+    "description": "shoe",
     "name": "boot"
   },
   {
     "emoji": "👣",
-    "description": "",
+    "description": "feet",
     "name": "footprints"
   },
   {
     "emoji": "👤",
-    "description": "",
+    "description": "person, people, user, users, contact, contacts",
     "name": "bust_in_silhouette"
   },
   {
     "emoji": "👥",
-    "description": "",
+    "description": "person, people, user, users, contact, contacts",
     "name": "busts_in_silhouette"
   },
   {
@@ -1931,7 +1931,7 @@
   },
   {
     "emoji": "💃",
-    "description": "",
+    "description": "dance, dancing",
     "name": "dancer"
   },
   {
@@ -1961,12 +1961,12 @@
   },
   {
     "emoji": "💉",
-    "description": "",
+    "description": "medicine",
     "name": "syringe"
   },
   {
     "emoji": "💊",
-    "description": "",
+    "description": "medicine",
     "name": "pill"
   },
   {
@@ -1986,7 +1986,7 @@
   },
   {
     "emoji": "💎",
-    "description": "",
+    "description": "diamond",
     "name": "gem"
   },
   {
@@ -2006,117 +2006,117 @@
   },
   {
     "emoji": "💒",
-    "description": "",
+    "description": "house, home",
     "name": "wedding"
   },
   {
     "emoji": "💓",
-    "description": "",
+    "description": "heart",
     "name": "heartbeat"
   },
   {
     "emoji": "💔",
-    "description": "",
+    "description": "heart",
     "name": "broken_heart"
   },
   {
     "emoji": "💕",
-    "description": "",
+    "description": "heart",
     "name": "two_hearts"
   },
   {
     "emoji": "💖",
-    "description": "",
+    "description": "heart",
     "name": "sparkling_heart"
   },
   {
     "emoji": "💗",
-    "description": "",
+    "description": "heart",
     "name": "heartpulse"
   },
   {
     "emoji": "💘",
-    "description": "",
+    "description": "heart",
     "name": "cupid"
   },
   {
     "emoji": "💙",
-    "description": "",
+    "description": "heart",
     "name": "blue_heart"
   },
   {
     "emoji": "💚",
-    "description": "",
+    "description": "heart",
     "name": "green_heart"
   },
   {
     "emoji": "💛",
-    "description": "",
+    "description": "heart",
     "name": "yellow_heart"
   },
   {
     "emoji": "💜",
-    "description": "",
+    "description": "heart",
     "name": "purple_heart"
   },
   {
     "emoji": "💝",
-    "description": "",
+    "description": "heart",
     "name": "gift_heart"
   },
   {
     "emoji": "💞",
-    "description": "",
+    "description": "heart",
     "name": "revolving_hearts"
   },
   {
     "emoji": "💟",
-    "description": "",
+    "description": "heart",
     "name": "heart_decoration"
   },
   {
     "emoji": "💠",
-    "description": "",
+    "description": "diamond",
     "name": "diamond_shape_with_a_dot_inside"
   },
   {
     "emoji": "💡",
-    "description": "",
+    "description": "light, bulb, idea, eureka, think, brainstorm",
     "name": "bulb"
   },
   {
     "emoji": "💢",
-    "description": "",
+    "description": "stress",
     "name": "anger"
   },
   {
     "emoji": "💣",
-    "description": "",
+    "description": "explode",
     "name": "bomb"
   },
   {
     "emoji": "💤",
-    "description": "",
+    "description": "sleep, sleepy",
     "name": "zzz"
   },
   {
     "emoji": "💥",
-    "description": "",
+    "description": "explode",
     "name": "boom"
   },
   {
     "emoji": "💦",
-    "description": "",
+    "description": "water, drop, droplet, drops, droplets, tear, sweat, spray, wet",
     "name": "sweat_drops"
   },
   {
     "emoji": "💧",
-    "description": "",
+    "description": "water, drop, droplet, tear, sweat, wet",
     "name": "droplet"
   },
   {
     "emoji": "💨",
-    "description": "",
+    "description": "fart, blow, air, puff, smoke",
     "name": "dash"
   },
   {
@@ -2126,12 +2126,12 @@
   },
   {
     "emoji": "💪",
-    "description": "",
+    "description": "flex",
     "name": "muscle"
   },
   {
     "emoji": "💫",
-    "description": "",
+    "description": "star, twinkle,",
     "name": "dizzy"
   },
   {
@@ -2156,7 +2156,7 @@
   },
   {
     "emoji": "💰",
-    "description": "",
+    "description": "bag, money, cash, rich",
     "name": "moneybag"
   },
   {
@@ -2166,87 +2166,87 @@
   },
   {
     "emoji": "💲",
-    "description": "",
+    "description": "dollar,",
     "name": "heavy_dollar_sign"
   },
   {
     "emoji": "💳",
-    "description": "",
+    "description": "credit, card, money",
     "name": "credit_card"
   },
   {
     "emoji": "💴",
-    "description": "",
+    "description": "money",
     "name": "yen"
   },
   {
     "emoji": "💵",
-    "description": "",
+    "description": "money",
     "name": "dollar"
   },
   {
     "emoji": "💶",
-    "description": "",
+    "description": "money",
     "name": "euro"
   },
   {
     "emoji": "💷",
-    "description": "",
+    "description": "money",
     "name": "pound"
   },
   {
     "emoji": "💸",
-    "description": "",
+    "description": "money, rich, cash, dollar",
     "name": "money_with_wings"
   },
   {
     "emoji": "💹",
-    "description": "",
+    "description": "stock, stocks",
     "name": "chart"
   },
   {
     "emoji": "💺",
-    "description": "",
+    "description": "chair, flight, plane, travel",
     "name": "seat"
   },
   {
     "emoji": "💻",
-    "description": "",
+    "description": "work",
     "name": "computer"
   },
   {
     "emoji": "💼",
-    "description": "",
+    "description": "work",
     "name": "briefcase"
   },
   {
     "emoji": "💽",
-    "description": "",
+    "description": "dvd, cd, disk, disc",
     "name": "minidisc"
   },
   {
     "emoji": "💾",
-    "description": "",
+    "description": "floppy, save, storage",
     "name": "floppy_disk"
   },
   {
     "emoji": "💿",
-    "description": "",
+    "description": "dvd, disk, disc",
     "name": "cd"
   },
   {
     "emoji": "📀",
-    "description": "",
+    "description": "disk, cd, disc",
     "name": "dvd"
   },
   {
     "emoji": "📁",
-    "description": "",
+    "description": "file, folder, save",
     "name": "file_folder"
   },
   {
     "emoji": "📂",
-    "description": "",
+    "description": "file, folder, open",
     "name": "open_file_folder"
   },
   {
@@ -2261,12 +2261,12 @@
   },
   {
     "emoji": "📅",
-    "description": "",
+    "description": "calendar, month",
     "name": "date"
   },
   {
     "emoji": "📆",
-    "description": "",
+    "description": "month, date",
     "name": "calendar"
   },
   {
@@ -2276,12 +2276,12 @@
   },
   {
     "emoji": "📈",
-    "description": "",
+    "description": "up, win, stocks",
     "name": "chart_with_upwards_trend"
   },
   {
     "emoji": "📉",
-    "description": "",
+    "description": "down, fail, stocks, loss",
     "name": "chart_with_downwards_trend"
   },
   {
@@ -2296,27 +2296,27 @@
   },
   {
     "emoji": "📌",
-    "description": "",
+    "description": "pin, save",
     "name": "pushpin"
   },
   {
     "emoji": "📍",
-    "description": "",
+    "description": "pin, save, map, location",
     "name": "round_pushpin"
   },
   {
     "emoji": "📎",
-    "description": "",
+    "description": "clip, link, paper",
     "name": "paperclip"
   },
   {
     "emoji": "📏",
-    "description": "",
+    "description": "ruler, measure, length",
     "name": "straight_ruler"
   },
   {
     "emoji": "📐",
-    "description": "",
+    "description": "ruler, measure, angle",
     "name": "triangular_ruler"
   },
   {
@@ -2331,37 +2331,37 @@
   },
   {
     "emoji": "📓",
-    "description": "",
+    "description": "school, writing, note, notes, book",
     "name": "notebook"
   },
   {
     "emoji": "📔",
-    "description": "",
+    "description": "school, writing, note, notes, book",
     "name": "notebook_with_decorative_cover"
   },
   {
     "emoji": "📕",
-    "description": "",
+    "description": "school, writing, note, notes, book",
     "name": "closed_book"
   },
   {
     "emoji": "📖",
-    "description": "",
+    "description": "school, writing, note, notes, book",
     "name": "book"
   },
   {
     "emoji": "📗",
-    "description": "",
+    "description": "school, writing, note, notes, book",
     "name": "green_book"
   },
   {
     "emoji": "📘",
-    "description": "",
+    "description": "school, writing, note, notes, book",
     "name": "blue_book"
   },
   {
     "emoji": "📙",
-    "description": "",
+    "description": "school, writing, note, notes, book",
     "name": "orange_book"
   },
   {
@@ -2406,12 +2406,12 @@
   },
   {
     "emoji": "📢",
-    "description": "",
+    "description": "horn, announce",
     "name": "loudspeaker"
   },
   {
     "emoji": "📣",
-    "description": "",
+    "description": "horn, announce",
     "name": "mega"
   },
   {
@@ -2426,7 +2426,7 @@
   },
   {
     "emoji": "📦",
-    "description": "",
+    "description": "box",
     "name": "package"
   },
   {
@@ -2506,27 +2506,27 @@
   },
   {
     "emoji": "📶",
-    "description": "",
+    "description": "bars, mobile, internet",
     "name": "signal_strength"
   },
   {
     "emoji": "📷",
-    "description": "photography, photo",
+    "description": "photography, photo, capture, screenshot",
     "name": "camera"
   },
   {
     "emoji": "📸",
-    "description": "photography, photo",
+    "description": "photography, photo, capture, screenshot",
     "name": "camera_flash"
   },
   {
     "emoji": "📹",
-    "description": "",
+    "description": "record, camera, watch",
     "name": "video_camera"
   },
   {
     "emoji": "📺",
-    "description": "",
+    "description": "show, watch, television",
     "name": "tv"
   },
   {
@@ -2546,62 +2546,62 @@
   },
   {
     "emoji": "🔀",
-    "description": "",
+    "description": "shuffle, mix",
     "name": "twisted_rightwards_arrows"
   },
   {
     "emoji": "🔁",
-    "description": "",
+    "description": "rewind, replay, restart",
     "name": "repeat"
   },
   {
     "emoji": "🔂",
-    "description": "",
+    "description": "rewind, replay, restart",
     "name": "repeat_one"
   },
   {
     "emoji": "🔃",
-    "description": "",
+    "description": "rewind, replay, restart",
     "name": "arrows_clockwise"
   },
   {
     "emoji": "🔄",
-    "description": "",
+    "description": "rewind, replay, restart",
     "name": "arrows_counterclockwise"
   },
   {
     "emoji": "🔅",
-    "description": "",
+    "description": "sun, light",
     "name": "low_brightness"
   },
   {
     "emoji": "🔆",
-    "description": "",
+    "description": "sun, light",
     "name": "high_brightness"
   },
   {
     "emoji": "🔇",
-    "description": "",
+    "description": "quiet, silent, sound, loud",
     "name": "mute"
   },
   {
     "emoji": "🔈",
-    "description": "",
+    "description": "quiet, silent, sound, loud",
     "name": "speaker"
   },
   {
     "emoji": "🔉",
-    "description": "",
+    "description": "quiet, silent, speaker, loud",
     "name": "sound"
   },
   {
     "emoji": "🔊",
-    "description": "",
+    "description": "quiet, silent, sound, loud",
     "name": "loud_sound"
   },
   {
     "emoji": "🔋",
-    "description": "",
+    "description": "recharge, full, power",
     "name": "battery"
   },
   {
@@ -2611,47 +2611,47 @@
   },
   {
     "emoji": "🔍",
-    "description": "search",
+    "description": "search, glass, magnify",
     "name": "mag"
   },
   {
     "emoji": "🔎",
-    "description": "search",
+    "description": "search, glass, magnify",
     "name": "mag_right"
   },
   {
     "emoji": "🔏",
-    "description": "",
+    "description": "secure, lock, closed",
     "name": "lock_with_ink_pen"
   },
   {
     "emoji": "🔐",
-    "description": "",
+    "description": "secure, lock, closed",
     "name": "closed_lock_with_key"
   },
   {
     "emoji": "🔑",
-    "description": "",
+    "description": "secure, lock, closed,",
     "name": "key"
   },
   {
     "emoji": "🔒",
-    "description": "",
+    "description": "secure, closed, key",
     "name": "lock"
   },
   {
     "emoji": "🔓",
-    "description": "",
+    "description": "secure, closed, key, open",
     "name": "unlock"
   },
   {
     "emoji": "🔔",
-    "description": "",
+    "description": "notification, alarm, ring",
     "name": "bell"
   },
   {
     "emoji": "🔕",
-    "description": "",
+    "description": "mute, notification, alarm, ring",
     "name": "no_bell"
   },
   {
@@ -2661,7 +2661,7 @@
   },
   {
     "emoji": "🔗",
-    "description": "",
+    "description": "copy, site",
     "name": "link"
   },
   {
@@ -2671,12 +2671,12 @@
   },
   {
     "emoji": "🔙",
-    "description": "",
+    "description": "left",
     "name": "back"
   },
   {
     "emoji": "🔚",
-    "description": "",
+    "description": "left",
     "name": "end"
   },
   {
@@ -2686,12 +2686,12 @@
   },
   {
     "emoji": "🔜",
-    "description": "",
+    "description": "right",
     "name": "soon"
   },
   {
     "emoji": "🔝",
-    "description": "",
+    "description": "up, over",
     "name": "top"
   },
   {
@@ -2701,32 +2701,32 @@
   },
   {
     "emoji": "🔟",
-    "description": "",
+    "description": "10, number",
     "name": "keycap_ten"
   },
   {
     "emoji": "🔠",
-    "description": "",
+    "description": "alphabet",
     "name": "capital_abcd"
   },
   {
     "emoji": "🔡",
-    "description": "",
+    "description": "alphabet",
     "name": "abcd"
   },
   {
     "emoji": "🔢",
-    "description": "",
+    "description": "number",
     "name": "1234"
   },
   {
     "emoji": "🔣",
-    "description": "",
+    "description": "shape",
     "name": "symbols"
   },
   {
     "emoji": "🔤",
-    "description": "",
+    "description": "alphabet, letter",
     "name": "abc"
   },
   {
@@ -3031,22 +3031,22 @@
   },
   {
     "emoji": "😀",
-    "description": "",
+    "description": "smile",
     "name": "grinning"
   },
   {
     "emoji": "😁",
-    "description": "",
+    "description": "smile, cheese",
     "name": "grin"
   },
   {
     "emoji": "😂",
-    "description": "",
+    "description": "smile, laugh, cry",
     "name": "joy"
   },
   {
     "emoji": "😃",
-    "description": "",
+    "description": "smile",
     "name": "smiley"
   },
   {
@@ -3056,7 +3056,7 @@
   },
   {
     "emoji": "😅",
-    "description": "",
+    "description": "nervous",
     "name": "sweat_smile"
   },
   {
@@ -3066,12 +3066,12 @@
   },
   {
     "emoji": "😇",
-    "description": "",
+    "description": "angel",
     "name": "innocent"
   },
   {
     "emoji": "😈",
-    "description": "",
+    "description": "devil, evil",
     "name": "smiling_imp"
   },
   {
@@ -3081,7 +3081,7 @@
   },
   {
     "emoji": "😊",
-    "description": "",
+    "description": "smile",
     "name": "blush"
   },
   {
@@ -3096,12 +3096,12 @@
   },
   {
     "emoji": "😍",
-    "description": "",
+    "description": "heart",
     "name": "heart_eyes"
   },
   {
     "emoji": "😎",
-    "description": "",
+    "description": "cool",
     "name": "sunglasses"
   },
   {
@@ -3636,7 +3636,7 @@
   },
   {
     "emoji": "🚩",
-    "description": "",
+    "description": "red, flag",
     "name": "triangular_flag_on_post"
   },
   {
